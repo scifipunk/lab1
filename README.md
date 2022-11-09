@@ -56,8 +56,6 @@
 <!-- ![user_alg1](pictures/user_alg1.png) -->
 2. Алгоритм регистрации на сайте
 <!-- ![user_alg2](pictures/user_alg2.png) -->
-3. Алгоритм аутентификации пользователя
-<!-- ![user_alg3](pictures/user_alg3.png) -->
 ## Примеры HTTP запросов/ответов
 <!-- ![user_scen1](pictures/user_scen1.png)
 ![user_scen2](pictures/user_scen2.png)
