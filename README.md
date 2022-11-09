@@ -13,11 +13,11 @@
 ## Пользовательский интерфейс
 Необходимо создать три страницы: входа, регистрации и главную страницу сайта.
 1. Страница входа
-<!-- ![slide1](pictures/slide1.png) -->
+<!-- ![slide1](pictures/img-auth.png) -->
 2. Страница регистрации
-<!-- ![slide2](pictures/slide2.png) -->
+<!-- ![slide2](pictures/image.png) -->
 3. Главная страница сайта
-<!-- ![slide3](pictures/slide3.png) -->
+<!-- ![slide3](pictures/img-prof.png) -->
 Доступ к третьей странице невозможен не вошедшему на сайт пользователю.
 ## Пользовательские сценарии работы
 1. Пользователь вводит в адресной строке register.php и попадает на форму регистрации. Вводит данные, но пользователь с таким логином уже существует - появляется сообщение "Такой логин уже есть". Пользователь перенаправляется обратно на register.php.
@@ -49,12 +49,12 @@
 6. "avatar" типа varchar для хранения аватарки пользователя.
 
 Пример того, как данные пользователей выглядят в базе данных.
-![clipboard](https://i.imgur.com/eHHsJWd.png)
+![img-db](pictures/img-db.png)
 ## Описание алгоритмов
 1. Алгоритм входа на сайт
-![auth_alg](pictures/auth_al.drawio.png "Алгоритм входа на сайт")
+![auth_alg](pictures/auth_al.drawio.png)
 2. Алгоритм регистрации на сайте
-![reg_alg](pictures/reg_al.drawio.png "Алгоритм регистрации на сайте")
+![reg_alg](pictures/reg_al.drawio.png )
 ## Примеры HTTP запросов/ответов
 <!-- ![user_scen1](pictures/user_scen1.png)
 ![user_scen2](pictures/user_scen2.png)
