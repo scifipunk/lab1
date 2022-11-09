@@ -52,9 +52,9 @@
 Пример того, как данные пользователей выглядят в базе данных.
 ![clipboard](https://i.imgur.com/eHHsJWd.png)
 ## Описание алгоритмов
-
+1. Алгоритм входа на сайт
 ![auth_alg](pictures/auth_al.drawio.png "Алгоритм входа на сайт")
-
+2. Алгоритм регистрации на сайте
 ![reg_alg](pictures/reg_al.drawio.png "Алгоритм регистрации на сайте")
 ## Примеры HTTP запросов/ответов
 <!-- ![user_scen1](pictures/user_scen1.png)
