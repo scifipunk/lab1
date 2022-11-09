@@ -53,9 +53,9 @@
 ![clipboard](https://i.imgur.com/eHHsJWd.png)
 ## Описание алгоритмов
 1. Алгоритм входа на сайт
-![auth_alg](pictures/auth_alg.drawio.svg)
+![auth_alg](pictures/auth_alg.drawio.png)
 2. Алгоритм регистрации на сайте
-![reg_alg](pictures/reg_alg.drawio.svg)
+![reg_alg](pictures/reg_alg.drawio.png)
 ## Примеры HTTP запросов/ответов
 <!-- ![user_scen1](pictures/user_scen1.png)
 ![user_scen2](pictures/user_scen2.png)
