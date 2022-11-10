@@ -56,7 +56,7 @@
 2. Алгоритм регистрации на сайте
 ![reg_alg](pictures/reg_al.drawio.png )
 ## Пример HTTP запросов/ответов
-![httpget1](pictures/httpget1.drawio (1).png)
+![httpget1](pictures/httpget1.svg)
 ## Значимые фрагменты кода
 1. Алгоритм регистрации на сайте
 ```
